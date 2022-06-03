@@ -16,9 +16,10 @@ int main(void)
 
 	{
 		putchar(n);
+
 		n += 1;
 	}
 
-	putchar("\n");
+	printf("\n");
 	return (0);
 }
